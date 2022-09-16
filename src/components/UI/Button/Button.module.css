@@ -8,6 +8,7 @@
   border: 1px solid #ccc;
   margin-right: 15px;
   text-transform: uppercase;
+  cursor: pointer;
 }
 .Button:focus {
   outline: none;
